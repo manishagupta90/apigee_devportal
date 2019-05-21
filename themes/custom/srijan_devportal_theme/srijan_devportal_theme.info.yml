@@ -1,9 +1,9 @@
+name: 'Srijan Devportal Theme'
 core: 8.x
 type: theme
 base theme: bootstrap
 
-name: 'srijan_devportal_theme'
-description: 'Srijan Devportal Theme is a sub theme of Bootstrap.'
+description: 'Srijan Devportal theme, specially for srijan devportal profile.'
 package: 'Bootstrap'
 
 regions:
@@ -21,3 +21,4 @@ regions:
 
 libraries:
   - srijan_devportal_theme/framework
+
