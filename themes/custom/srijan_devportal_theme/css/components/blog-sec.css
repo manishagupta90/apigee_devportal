@@ -1,0 +1,98 @@
+.block-views-blockblog-listing-block-blog-listing-block {
+  float: left;
+  margin-right: 50px;
+  width: 35%;
+}
+
+.block-views-blockblog-listing-block-blog-listing-block .view-content .views-row {
+  background-color: #F0F3F6;
+  border: 1px solid #E2DDDD;
+  box-shadow: 5px 5px 15px -9px #201F27;
+  margin-bottom: 22px;
+  border-radius: 10px;
+  padding: 20px 22px;
+  clear: both;
+  overflow: hidden;
+}
+
+.block-twitter-block {
+  float: left;
+  margin-right: 50px;
+  width: 30%;
+}
+
+.block-simplenews-subscription-block {
+  float: right;
+  width: 25%;
+}
+
+.block-views-blockblog-listing-block-blog-listing-block .views-field-field-featured-image {
+  display: inline-block;
+  float: left;
+  margin-right: 35px;
+}
+
+.block-views-blockblog-listing-block-blog-listing-block .views-field-title a {
+  color: #141E30;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.block-views-blockblog-listing-block-blog-listing-block .views-field-title a:hover {
+  text-decoration: none;
+}
+
+.block-twitter-block iframe {
+  background-color: #F0F3F6;
+  border: 1px solid #E2DDDD !important;
+  box-shadow: 5px 5px 15px -9px #201F27;
+  border-radius: 10px;
+  padding: 20px 22px !important;
+}
+
+.block-simplenews-subscription-block form {
+  background-color: #F0F3F6;
+  border: 1px solid #E2DDDD;
+  box-shadow: 5px 5px 15px -9px #201F27;
+  border-radius: 10px;
+  padding: 20px 22px;
+  font-size: 10px;
+  line-height: 16px;
+  color: #141E30;
+}
+
+.block-simplenews-subscription-block form .form-no-label {
+  font-size: 16px;
+  line-height: 25px;
+  margin-bottom: 25px;
+}
+
+.block-simplenews-subscription-block form .form-text {
+  background-color: #fff;
+  border: none;
+  font-size: 13px;
+  color: #868B94;
+  line-height: 20px;
+  padding: 10px;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.block-simplenews-subscription-block form .field--name-subscriptions {
+  margin: 0;
+  padding: 0 !important;
+}
+
+.block-simplenews-subscription-block form .form-wrapper {
+  text-align: right;
+  padding-bottom: 18px;
+}
+
+.block-simplenews-subscription-block form .form-submit {
+  background-color: #F8D25A;
+  font-size: 13px;
+  line-height: 20px;
+  padding: 11px 24px;
+  border: none;
+  border-radius: 0;
+}
