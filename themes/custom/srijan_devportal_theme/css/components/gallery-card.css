@@ -1,0 +1,45 @@
+.field--name-field-gallery-card {
+  display: flex;
+}
+
+.field--name-field-gallery-card > .field--item {
+  width: 32%;
+  float: left;
+  background-color: #FFCB2B;
+  background-image: url('../../images/gallery-bg.svg');
+  background-repeat: no-repeat;
+  background-position: right center;
+  padding: 24px;
+  border: 1px solid #F7F6E4;
+  box-shadow: 0px 3px 10px -8px #0A0A0A;
+  margin-right: 20px;
+}
+
+.field--name-field-gallery-card > .field--item:last-child {
+  margin-right: 0;
+}
+
+.paragraph--type--gallery-card {
+  
+}
+
+.field--name-field-gallery-card .field--name-field-card-title {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 44px;
+  color: #070F16;
+  float: left;
+}
+
+.field--name-field-gallery-card .field--name-field-description {
+  font-size: 14px;
+  line-height: 21px;
+  color: #070F16;
+  float: left;
+  clear: left;
+}
+
+.field--name-field-gallery-card .field--name-field-paragraph-featured-image {
+  width: 40%;
+  float: right;
+}
