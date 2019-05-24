@@ -9,9 +9,9 @@ dependencies:
 
 default_content:
   file:
-    - 0e312c02-ed9f-4c9e-a582-2760321d8610
-    - 649b4cf9-f998-448d-a1b8-39475ed61e8d
-    - 95cd1a8e-c23a-472b-996d-4fab38d321d7
+    - 803bde5c-e504-4c3c-bcce-4efc1ef83752
+  media:
+    - 819b2747-3d43-413c-8530-5ed51fff06d5
   menu_link_content:
     - 3d3821fe-47ce-48d3-bfe2-dab0ef3ecae7
     - 3dbdddc5-e56b-4d52-ba56-e1e07bc9541b
@@ -34,10 +34,9 @@ default_content:
     - fb11b681-33cd-43af-99ba-6b61f91ab581
     - ff6962dc-4658-4378-b6a8-b60ed9e670ef
   node:
-    - 8af2604d-e56d-497b-b8a9-66a3a85c500a
-    - 20d020bd-ca4e-438f-93fe-94a32f1b4083
+    - 49b5a046-4a95-477c-83e3-bf1f1496858e
   taxonomy_term:
-    - 18fd04fd-9d8b-4519-8612-4d236375e401
+    - 2c211245-aa88-4258-bb5e-ff8223e039c3
   block_content:
     - ea9346cd-d38f-4d55-9776-51ee392a818f
   paragraph:

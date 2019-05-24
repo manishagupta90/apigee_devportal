@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-05\/Recog%20Ovw.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "803bde5c-e504-4c3c-bcce-4efc1ef83752"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "da8a4def-085b-4bb7-9814-4d40d3b8001c"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Recog Ovw.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-05\/Recog Ovw.png",
+            "url": "\/sites\/default\/files\/2019-05\/Recog%20Ovw.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 14398
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-24T07:51:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-24T07:51:13+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
