@@ -1,8 +1,14 @@
 langcode: en
 status: true
 dependencies:
+  config:
+    - field.field.node.product.body
+    - field.field.node.product.field_media_image
+    - field.field.node.product.field_product_documentation
+    - field.field.node.product.field_product_overview
+    - node.type.product
   module:
-    - image
+    - media_library
     - paragraphs
     - path
     - text
@@ -26,13 +32,12 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_featured_image:
+  field_media_image:
+    type: media_library_widget
     weight: 1
     settings:
-      progress_indicator: throbber
-      preview_image_style: thumbnail
+      media_types: {  }
     third_party_settings: {  }
-    type: image_image
     region: content
   field_product_documentation:
     type: paragraphs
