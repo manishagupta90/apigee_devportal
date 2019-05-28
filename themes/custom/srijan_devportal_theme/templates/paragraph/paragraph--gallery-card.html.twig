@@ -56,9 +56,9 @@
     {% block content %}
       <div{{ attributes.addClass(galleryCard) }}>
         <a href={{ content.field_content_link.0['#url'] }}>{{ content.field_card_title }}</a>
-        {{content.field_description}}
+        {{ content.field_description }}
       </div>
-      {{content.field_paragraph_featured_image}}
+      {{ content.field_paragraph_featured_image }}
     {% endblock %}
   </div>
 {% endblock paragraph %}
