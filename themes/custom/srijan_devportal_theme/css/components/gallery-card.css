@@ -19,8 +19,13 @@
   margin-right: 0;
 }
 
-.paragraph--type--gallery-card {
-  
+.paragraph--type--gallery-card .galleryDesc {
+  float: left;
+  width: 60%;
+}
+
+.paragraph--type--gallery-card .galleryDesc a:hover {
+  text-decoration: none;
 }
 
 .field--name-field-gallery-card .field--name-field-card-title {
@@ -28,15 +33,12 @@
   font-weight: 600;
   line-height: 44px;
   color: #070F16;
-  float: left;
 }
 
 .field--name-field-gallery-card .field--name-field-description {
   font-size: 14px;
   line-height: 21px;
   color: #070F16;
-  float: left;
-  clear: left;
 }
 
 .field--name-field-gallery-card .field--name-field-paragraph-featured-image {

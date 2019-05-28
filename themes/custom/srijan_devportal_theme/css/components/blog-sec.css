@@ -1,3 +1,9 @@
+.block-views-blockblog-listing-block-blog-listing-block h2,
+.block-twitter-block h2,
+.block-simplenews-subscription-block h2 {
+  padding-bottom: 15px;
+}
+
 .block-views-blockblog-listing-block-blog-listing-block {
   float: left;
   margin-right: 50px;
@@ -27,7 +33,6 @@
 }
 
 .block-views-blockblog-listing-block-blog-listing-block .views-field-field-featured-image {
-  display: inline-block;
   float: left;
   margin-right: 35px;
 }
